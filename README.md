@@ -3,9 +3,9 @@
 This project aims to create a personalized website for faculty members.
 
 # Contents
-Contents include:
+Contents of the project include:
 
-## Portfolio Files
+-Portfolio Files
 
 - **js:** This contains JavaScript files used in the project. These files include scripts for interactive elements, form validation, or other client-side functionalities.
 
@@ -23,7 +23,7 @@ Contents include:
 
 - **admin:** This directory may contain files related to an admin dashboard or backend management system for the website. It could include files for user authentication, data management, or other administrative tasks.
 
-## Screenshots:
+-Screenshots:
 It includes all the screenshots of the final personalised website.
 
 ## Contributor
