@@ -21,9 +21,9 @@ This project aims to create a personalized website for faculty members. The webs
 - **Backend:** Php
 - **Database:** MySql
 
-## About VIIT Pune: 
+## About VIIT Pune
 
 Vishwakarma Institute of Information Technology (VIIT), Pune, is a premier institute offering undergraduate and postgraduate programs in information technology and computer science engineering. The Sem 4 curriculum includes courses in data science and machine learning to provide students with a strong foundation in these domains.
 
-## Contributor:
+## Contributor
 Naisargi Bagal
