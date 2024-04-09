@@ -1,8 +1,8 @@
-# Personalized Faculty Website
+## Personalized Faculty Website
 
 This project aims to create a personalized website for faculty members.
 
-# Contents
+## Contents
 Contents of the project include:
 
 -Portfolio Files
